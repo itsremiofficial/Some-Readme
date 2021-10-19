@@ -14,4 +14,4 @@
 
 * If you are a resident of the European Union, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) with respect to your Personal Data. In this event, please refer to our GDPR Privacy Notice, as it applies to you too.
 
-* If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@botlabs.gg, and we will try to resolve your concerns.
+* If you have any questions or concerns regarding our privacy policies, please [Join our Discord](https://discord.gg/Nzycq8ZyRM), and we will try to resolve your concerns.
