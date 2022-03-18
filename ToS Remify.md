@@ -1,4 +1,4 @@
-> # **`Remify Terms Of Service`**
+> # **Remify Terms Of Service**
 Please read these Terms of Service carefully before using Remify. Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all the users.
 
 > ## Termination
