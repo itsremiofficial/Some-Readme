@@ -12,9 +12,9 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 >## Copyright Material
 You're NOT suppose to use any of the following by any means without legal permission:
->* Banner
->* Avatar
->*Any other graphics related to remify
+* Banner
+* Avatar
+* Any other graphics related to remify
 
 >### Contact
 If you have any questions about these Terms, join [**`Support Server`**](https://support.remify.tech/)
