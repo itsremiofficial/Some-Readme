@@ -25,4 +25,4 @@ You're NOT suppose to use any of the following by any means without legal permis
 * Any other graphics related to remify
 
 >## Contact
-If you have any questions about these Terms, join [**`Support Server`**](https://support.remify.tech/)
+If you have any questions about these Terms, join [**`Support Server`**](https://support.remify.tech/) to ask.
