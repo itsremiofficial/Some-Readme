@@ -7,7 +7,7 @@ Please read these Terms of Service carefully before using Remify. Your access to
 
 **`3.`** ⠀Invite: Don't Invite Remify in servers by creating many (more than 3 by each user) by yourself.
 
-**`4.`** ⠀Abusing Bugs: Remify getting new updates every week and there be bugs that crash the bot. Please report these bugs in Support Server.
+**`4.`** ⠀Abusing Bugs: Remify getting new updates every week and there be bugs that crash the bot. Please report these bugs in [**`Support Server`**](https://support.remify.tech/).
 
 > ## Termination
 We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
